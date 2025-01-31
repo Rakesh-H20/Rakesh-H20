@@ -9,7 +9,6 @@
 ### 🚀 About Me  
 - 🔭 Currently learning and practicing *Machine Learning & Data Science*  
 - 🧠 Passionate about *AI, Deep Learning, and Data Engineering*  
-- 📚 Exploring *Python, TensorFlow, and C*  
 - 💡 Sharing my knowledge via GitHub projects & contributions  
 - 🎯 Always excited about *Open Source & AI Innovations*  
 
